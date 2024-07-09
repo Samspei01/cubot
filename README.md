@@ -44,7 +44,7 @@ This project is licensed under the [MIT License](LICENSE).
 
 <ul>
     <li>Abdelrahman saaed - abdosaaed749@gmail.com </li>
-    <li>Fares Faathy - ffathy2004@gmail.com </li>
+    <li>Fares Fathy - ffathy2004@gmail.com </li>
 
 </ul>
 
