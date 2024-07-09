@@ -37,3 +37,14 @@ Contributions to this project are welcome. If you encounter any issues or have s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+
+<h2>Contact</h2>
+
+<p>For any questions or inquiries, please feel free to reach out to the project maintainers:</p>
+
+<ul>
+    <li>Abdelrahman saaed - abdosaaed749@gmail.com </li>
+    <li>Fares Faathy - ffathy2004@gmail.com </li>
+
+</ul>
+
