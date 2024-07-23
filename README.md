@@ -1,4 +1,12 @@
 # Rubik's Cube Solver
+## Project Documentation
+
+**Contributors:**  
+Fares Fathy  
+Abdulrahman Saeed
+
+**Course:**  
+Embedded Systems & IOT
 
 This repository contains the code and documentation for a Rubik's Cube solver project. The project includes Arduino code for controlling a motorized Rubik's Cube mechanism and Python code for image processing and generating the Rubik's Cube solution.
 
@@ -37,14 +45,6 @@ Contributions to this project are welcome. If you encounter any issues or have s
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
+---
 
-<h2>Contact</h2>
-
-<p>For any questions or inquiries, please feel free to reach out to the project maintainers:</p>
-
-<ul>
-    <li>Abdelrahman saaed - abdosaaed749@gmail.com </li>
-    <li>Fares Fathy - ffathy2004@gmail.com </li>
-
-</ul>
-
+For further questions, please contact us at [ffathy2004@gmail.com](mailto:ffathy2004@gmail.com) or [abdosaaed749@gmail.com](mailto:ffathy2004@gmail.com). 
