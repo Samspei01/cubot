@@ -16,7 +16,7 @@ The Rubik's Cube solver project aims to automate the process of solving a Rubik'
 
 ## 🎥 Demo
 
-![Rubik's Cube Solver Demo](assets/cubot.gif)
+![Rubik's Cube Solver Demo](cubot.gif)
 
 ## Repository Structure
 
