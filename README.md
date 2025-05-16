@@ -14,6 +14,10 @@ This repository contains the code and documentation for a Rubik's Cube solver pr
 
 The Rubik's Cube solver project aims to automate the process of solving a Rubik's Cube. The motorized Rubik's Cube mechanism is controlled using an Arduino board, which receives commands from a Python script based on image processing. The Python script captures an image of the Rubik's Cube and extracts the colors of each facelet, allowing for the generation of the Rubik's Cube solution. The solution is then sent back to the Arduino, which moves the motorized mechanism to solve the Rubik's Cube accordingly.
 
+## 🎥 Demo
+
+![Rubik's Cube Solver Demo](assets/cubot.gif)
+
 ## Repository Structure
 
 The repository is structured as follows:
